@@ -1,6 +1,6 @@
-# app
+# Gerador de ficha
 
-A new Flutter project.
+Nesse projeto eu desenvolvi um aplicativo que realiza as principais contas matemáticas para que o jogador tenha uma ficha no sistema próprio que criei.
 
 ## Getting Started
 
